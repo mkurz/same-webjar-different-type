@@ -1,5 +1,7 @@
 We include three webjars, they have the same name, but different groupid and **different versions**:
 
+https://github.com/mkurz/same-webjar-different-type/blob/ce66f2d12f1756b0a673abd4600c2808e4f1d189/build.sbt#L6-L10
+
 If you run:
 
 ```sh
