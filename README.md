@@ -1,5 +1,7 @@
 In this branch we include three webjars, they have the same name and the **same versions** (but different groupid):
 
+https://github.com/mkurz/same-webjar-different-type/blob/faad7fb966bee19fb4a285b44383a5e99cdd2a6a/build.sbt#L12-L16
+
 Again, run:
 
 ```sh
